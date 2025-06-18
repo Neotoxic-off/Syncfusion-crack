@@ -1,5 +1,5 @@
 # Syncfusion-crack
-Syncfusion crack for wpf
-*Time to crack the DLL: 5min*
+*Why did you refuse to give me a key ?*
 
-- Removed serial type check
+## Syncfusion crack for wpf
+- *Time to crack the DLL: 5min*
