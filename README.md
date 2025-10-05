@@ -14,7 +14,8 @@ Over time, I noticed that many developers were using Syncfusion and spending sig
 - Done
 
 ## Signatures
-|-----------|------------------------------------------------------------------|
 | Version   | Sha256                                                           |
+|-----------|------------------------------------------------------------------|
 | 22.1.34.0 | cfd6f27c05e0a5d04f34a796c1482c152ba554a1328cbc494718f7cdde28f6c5 |
 | 31.1.22.0 | ab8e4cd2630d79b65abb9c80c44ec98e84b6398caf3caea45187cb62d86f673f |
+
