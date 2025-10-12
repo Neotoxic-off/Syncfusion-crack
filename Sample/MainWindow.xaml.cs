@@ -1,4 +1,6 @@
-﻿using System.Text;
+﻿using Syncfusion.Licensing;
+using System.Reflection;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;

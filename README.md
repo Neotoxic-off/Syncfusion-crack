@@ -1,5 +1,6 @@
 # Syncfusion crack
-Latest release version: **31.1.22.0**
+
+![Latest release](https://img.shields.io/badge/Latest_release-31.1.23.0-green)
 
 ## Preview
 <img src="Assets/preview.gif" width="90%" height="90%"/>
@@ -27,3 +28,5 @@ If you’re unsure about a crack found online, please verify its authenticity by
 |--------------|-----------|------------------------------------------------------------------|
 | 2023-06-03   | 22.1.34.0 | cfd6f27c05e0a5d04f34a796c1482c152ba554a1328cbc494718f7cdde28f6c5 |
 | 2025-10-05   | 31.1.22.0 | 724bab9b8d688fbe535eb2de0dbd8cf42598be476b3e8772322be0dd09ae8cce |
+| 2025-10-13   | 31.1.23.0 | ac3ce17cc0982dd434937c1c93ab7599b51634d1aa8e4c7cd82f60bfdaacc628 |
+
