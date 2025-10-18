@@ -12,6 +12,12 @@
 ## Preview
 <img src="Assets/preview.gif" width="90%" height="90%"/>
 
+## ⚠️ Warning
+<p align="center">
+  This GitHub repository may be subject to removal or censorship by the developers or the owners of the licensed content.
+  To ensure continued access to updates, support, and additional information, please consider joining our Discord community.
+</p>
+
 ## Explanation
 <p align="center">
   This repository was initially released to highlight that Syncfusion denied my request for a free developer license.
