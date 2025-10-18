@@ -1,6 +1,6 @@
 # Syncfusion crack
 
-![Latest release](https://img.shields.io/badge/Latest_release-31.1.23.0-green)
+![Latest release](https://img.shields.io/badge/Latest_release-31.2.2.0-green)
 
 ## Preview
 <img src="Assets/preview.gif" width="90%" height="90%"/>
