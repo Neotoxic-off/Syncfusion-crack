@@ -25,10 +25,10 @@
 </p>
 
 ## Signatures
-| Release date | Version   | Sha256                                                           |
-|--------------|-----------|------------------------------------------------------------------|
-| 2023-06-03   | 22.1.34.0 | cfd6f27c05e0a5d04f34a796c1482c152ba554a1328cbc494718f7cdde28f6c5 |
-| 2025-10-05   | 31.1.22.0 | 724bab9b8d688fbe535eb2de0dbd8cf42598be476b3e8772322be0dd09ae8cce |
-| 2025-10-13   | 31.1.23.0 | ac3ce17cc0982dd434937c1c93ab7599b51634d1aa8e4c7cd82f60bfdaacc628 |
-| 2025-10-15   | 31.2.2.0  | 1bebef993005eef16f60b2e1a36b6fbaaecf4eaa43efb62d31db03ce1274b618 |
-
+| Release date | Platform  | Version     | Sha256                                                           |
+|--------------|-----------|-------------|------------------------------------------------------------------|
+| 2023-06-03   | Core      | 22.1.34.0   | cfd6f27c05e0a5d04f34a796c1482c152ba554a1328cbc494718f7cdde28f6c5 |
+| 2025-10-05   | Core      | 31.1.22.0   | 724bab9b8d688fbe535eb2de0dbd8cf42598be476b3e8772322be0dd09ae8cce |
+| 2025-10-13   | Core      | 31.1.23.0   | ac3ce17cc0982dd434937c1c93ab7599b51634d1aa8e4c7cd82f60bfdaacc628 |
+| 2025-10-15   | Core      | 31.2.2.0    | 1bebef993005eef16f60b2e1a36b6fbaaecf4eaa43efb62d31db03ce1274b618 |
+| 2025-10-15   | Framework | 31.2462.2.0 | 9d8d74c9ef9fe2364703a9f9af784b8608425b3b4a432a342ecb1eceb009e1cb |
