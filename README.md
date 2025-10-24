@@ -1,7 +1,6 @@
 # Syncfusion crack
 
 <p align = "center">
-    <img src="https://img.shields.io/badge/Latest_release-31.2.2.0-green?style=for-the-badge">
     <img src="https://img.shields.io/github/last-commit/Neotoxic-off/Syncfusion-crack?style=for-the-badge">
     <img src="https://img.shields.io/github/issues/Neotoxic-off/Syncfusion-crack?style=for-the-badge">
     <a href="https://discord.gg/HV4YpSdqur">
