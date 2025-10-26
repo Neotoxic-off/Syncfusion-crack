@@ -4,8 +4,8 @@
     <img src="https://img.shields.io/github/last-commit/Neotoxic-off/Syncfusion-crack?style=for-the-badge">
     <img src="https://img.shields.io/github/issues/Neotoxic-off/Syncfusion-crack?style=for-the-badge">
     <a href="https://discord.gg/HV4YpSdqur">
-      <img src="https://img.shields.io/discord/941097182872875090?color=purple&label=discord&logo=discord&style=for-the-badge">
-  </a>
+      <img src="https://img.shields.io/discord/1426186522499219600?color=purple&label=discord&logo=discord&style=for-the-badge">
+    </a>
 <p/>
 
 ## Preview
