@@ -45,9 +45,11 @@
 | 2025-10-13   | Core      | 31.1.23.0   | ac3ce17cc0982dd434937c1c93ab7599b51634d1aa8e4c7cd82f60bfdaacc628 |
 | 2025-10-15   | Core      | 31.2.2.0    | 1bebef993005eef16f60b2e1a36b6fbaaecf4eaa43efb62d31db03ce1274b618 |
 | 2025-10-22   | Core      | 31.2.3.0    | 0877e8bf26e082b37fafb113fd1b847cd3c1c18aa6bed3f0ae127eeda70d4f18 |
+| 2025-10-28   | Core      | 31.2.4.0    | ade204527728d8cd7ebfe8c4ed47aec0736c4adbc05628e6efdfbd0eeb5c0072 |
 
 ### Framework
 | Release date | Platform  | Version     | Sha256                                                           |
 |--------------|-----------|-------------|------------------------------------------------------------------|
 | 2025-10-15   | Framework | 31.2462.2.0 | 9d8d74c9ef9fe2364703a9f9af784b8608425b3b4a432a342ecb1eceb009e1cb |
 | 2025-10-22   | Framework | 31.2462.3.0 | fda7e3569bd53c958a438a2de9b740c1e0966992c49fc52b0e0d105b9b14a8f5 |
+| 2025-10-28   | Framework | 31.2462.4.0 | b4c366a9fb8a013a00e8e5ddc722295650b422c53df4f5ff0e7110c95f7fdf3f |
