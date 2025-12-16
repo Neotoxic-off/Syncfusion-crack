@@ -1,8 +1,9 @@
 # Syncfusion crack
 
 <p align = "center">
-    <img src="https://img.shields.io/github/last-commit/Neotoxic-off/Syncfusion-crack?style=for-the-badge">
-    <img src="https://img.shields.io/github/issues/Neotoxic-off/Syncfusion-crack?style=for-the-badge">
+    <img src="https://img.shields.io/badge/latest%20patch-32.1.19-purple?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/last-commit/Neotoxic-off/Syncfusion-crack?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/issues/Neotoxic-off/Syncfusion-crack?style=for-the-badge"/>
 <p/>
 
 ## Preview
