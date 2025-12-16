@@ -3,19 +3,10 @@
 <p align = "center">
     <img src="https://img.shields.io/github/last-commit/Neotoxic-off/Syncfusion-crack?style=for-the-badge">
     <img src="https://img.shields.io/github/issues/Neotoxic-off/Syncfusion-crack?style=for-the-badge">
-    <a href="https://discord.gg/HV4YpSdqur">
-      <img src="https://img.shields.io/discord/1426186522499219600?color=purple&label=discord&logo=discord&style=for-the-badge">
-    </a>
 <p/>
 
 ## Preview
 <img src="Assets/preview.gif" width="90%" height="90%"/>
-
-## ⚠️ Warning
-<p align="center">
-  This GitHub repository may be subject to removal or censorship by the developers or the owners of the licensed content.
-  To ensure continued access to updates, support, and additional information, please consider joining our Discord community.
-</p>
 
 ## Explanation
 <p align="center">
