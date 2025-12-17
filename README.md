@@ -10,6 +10,13 @@
 ## Preview
 <img src="Assets/preview.gif" width="90%" height="90%"/>
 
+## Information
+<p align="center">
+    Please note that I am notified immediately whenever a new update is released. However, I am not always able to apply the patch as soon as the update becomes available.
+    For standard updates, patching may occur shortly after release. For more complex versions, additional time may be required to ensure stability, compatibility, and proper implementation.
+    Thank you for your understanding and patience.
+</p>
+
 ## Explanation
 <p align="center">
   This repository was initially released to highlight that Syncfusion denied my request for a free developer license.
