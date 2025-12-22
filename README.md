@@ -12,6 +12,10 @@
 ## Preview
 <img src="Assets/preview.gif" width="90%" height="90%"/>
 
+<p align="center">
+    If you find this project useful, don’t forget to ⭐ the repository!
+</p>
+
 ## Information
 <p align="center">
     Please note that I am notified immediately whenever a new update is released. However, I am not always able to apply the patch as soon as the update becomes available.
