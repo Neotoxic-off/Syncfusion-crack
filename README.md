@@ -13,7 +13,8 @@
 <img src="Assets/preview.gif" width="90%" height="90%"/>
 
 <p align="center">
-    If you find this project useful, don’t forget to ⭐ the repository!
+    If you find this project useful, don’t forget to ⭐ the repository
+    To keep updated to patch and time it will take, join the discord
 </p>
 
 ## Information
