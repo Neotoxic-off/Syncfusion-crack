@@ -14,6 +14,8 @@
 
 <p align="center">
     If you find this project useful, don’t forget to ⭐ the repository
+</p>
+<p align="center">
     To keep updated to patch and time it will take, join the discord
 </p>
 
